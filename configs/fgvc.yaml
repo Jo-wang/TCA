@@ -1,0 +1,6 @@
+
+reservoir_size: 3
+scale: .02
+lambd: 2 #11.0   # 2.0 for vitb
+beta:  2 #4.0  #2 for vitb
+

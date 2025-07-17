@@ -1,0 +1,6 @@
+
+reservoir_size: 3
+scale: 0.1
+lambd: 4.0 # 2.363
+beta: 8 #7.45 
+
